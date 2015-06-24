@@ -1,11 +1,22 @@
 {
     "name": "activewebsite/Sortable",
-    "description": "Sortable",
-    "license": "proprietary",
+    "description": "Minimalist JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports AngularJS and any CSS library, e.g. Bootstrap.",
     "repositories": [
         {
             "type": "composer",
             "url": "http://repo.booj.lan"
         }
-    ] 
+    ],
+    "keywords": [
+        "sortable",
+        "reorder",
+        "drag",
+        "meteor",
+        "angular",
+        "ng-sortable",
+        "react",
+        "mixin"
+    ],
+    "author": "Konstantin Lebedev <ibnRubaXa@gmail.com>",
+    "license": "MIT"
 }
