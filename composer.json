@@ -1,0 +1,11 @@
+{
+    "name": "activewebsite/Sortable",
+    "description": "Sortable",
+    "license": "proprietary",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://repo.booj.lan"
+        }
+    ] 
+}
