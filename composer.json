@@ -18,5 +18,15 @@
         "mixin"
     ],
     "author": "Konstantin Lebedev <ibnRubaXa@gmail.com>",
-    "license": "MIT"
+    "license": "MIT",
+    "extra": {
+        "component": {
+            "scripts": [
+                "Sortable.js"
+            ],
+            "files": [
+               "*.js"
+            ]
+        }
+    }
 }
