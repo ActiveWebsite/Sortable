@@ -21,11 +21,9 @@
     "license": "MIT",
     "extra": {
         "component": {
-            "scripts": [
-                "Sortable.js"
-            ],
             "files": [
-               "*.js"
+               "Sortable.js",
+               "Sortable.min.js"
             ]
         }
     }
